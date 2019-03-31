@@ -1,4 +1,4 @@
 Alfred Workflow: Default Route
 ==
 
-Simple workflow to return your external IP address. Keyword: droute
+Simple workflow to return the default gateway IP address. Keyword: `droute`
